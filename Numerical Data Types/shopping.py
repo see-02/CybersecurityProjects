@@ -10,6 +10,7 @@
 #     ● Then print out the following sentence after performing your calculations:
 #     “The Total of [product1], [product2], [product3] is Rxx,xx and the average price of
 #     the items is Rxx,xx.”
+#*****************************************************************************************
 
 #ask user for three products
 product_1 = input("Please enter the name of a product: ")
