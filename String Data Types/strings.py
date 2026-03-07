@@ -4,6 +4,7 @@
 #   ● Declare a variable called hero that contains the value “$$$Superman$$$”
 #   ● Use the string-manipulation method strip() and print hero so that the
 #   output is: Superman
+#******************************************************************************
 
 hero = "$$$Superman$$$"
 
