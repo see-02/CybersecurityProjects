@@ -7,6 +7,7 @@
 #   ○ The first number minus the second number.
 #   ○ The third number is multiplied by the first number.
 #   ○ The sum of all three numbers divided by the third number
+#*****************************************************************
 
 #ask user for 3 different integers
 first_int = int(input("Please enter an integer: "))
