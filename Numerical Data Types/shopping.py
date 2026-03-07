@@ -1,17 +1,3 @@
-#Task 2:
-# Follow these steps:
-#     ● Create a new Python file in this folder called shopping.py.
-#     ● Once this is done, ask the user to enter the names of three products
-#     ● Now ask for the price of each product. Each product must have two
-#     decimal values.
-#     ● Calculate the total sum of all three products.
-#     ● Calculate the average price of the three products. (Hint: look up the round()
-#     function)
-#     ● Then print out the following sentence after performing your calculations:
-#     “The Total of [product1], [product2], [product3] is Rxx,xx and the average price of
-#     the items is Rxx,xx.”
-#*****************************************************************************************
-
 #ask user for three products
 product_1 = input("Please enter the name of a product: ")
 product_2 = input("Please enter the name of another product: ")
