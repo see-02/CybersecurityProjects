@@ -11,7 +11,7 @@
 #   you have written. Be careful!
 #   ● Once this is working, try to cast string_fav to an integer. What happens?
 #   Add a comment in your code to explain why this is.
-
+#*******************************************************************************
 
 #ask user's favorite restaurant and store it
 string_fav = input("What is the name of your favorite restaurant? ")
